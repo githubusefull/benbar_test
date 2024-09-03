@@ -21,7 +21,7 @@ export default function Home() {
               alt="Vercel Logo"
               className="dark:invert"
               width={100}
-              height={234}
+              height={4}
               priority
             />
           </a>
